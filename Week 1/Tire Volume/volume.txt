@@ -1,0 +1,2 @@
+2024-09-18: width - 185.00, aspect ratio - 50.00, diameter - 14.00, volume - 24.09, client's number - 546112025
+2024-09-18: width - 205.00, aspect ratio - 60.00, diameter - 15.00, volume - 39.92
